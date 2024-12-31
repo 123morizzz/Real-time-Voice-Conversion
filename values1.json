@@ -1,0 +1,1 @@
+{"pth_path": "D:/zhou.pth", "index_path": "D:/added_IVF443_Flat_nprobe_1_zhou_v2.index", "sg_input_device": "\u9ea6\u514b\u98ce (NVIDIA Broadcast) (MME)", "sg_output_device": "VoiceMeeter Aux Input (VB-Audio (MME)", "threhold": -60.0, "pitch": 0.0, "index_rate": 0.29, "block_time": 0.21, "crossfade_length": 0.08, "extra_time": 2.99, "n_cpu": 4.0, "f0method": "rmvpe"}
